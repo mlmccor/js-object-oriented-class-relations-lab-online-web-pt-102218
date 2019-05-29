@@ -25,3 +25,10 @@ class Passenger {
     store.passengers.push(this)
   }
 }
+
+let tripId = 0
+
+class Trip {
+  
+  constructor()
+}
