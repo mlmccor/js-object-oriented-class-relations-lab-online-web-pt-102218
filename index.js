@@ -14,7 +14,7 @@ class Driver {
   
   trips() {
     return store.trips.filter(function (item) {
-      item.driverId ==
+      return item.driverId ===
     })
   }
   
