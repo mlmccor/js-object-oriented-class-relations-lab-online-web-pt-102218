@@ -1,4 +1,4 @@
-let store = {drivers:
+let store = {drivers: [], passengers: 
 
 class Driver {
   
